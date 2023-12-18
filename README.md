@@ -91,7 +91,7 @@ Ref: users.id < orders.user_id
 https://documenter.getpostman.com/view/13235416/2s9Ykn8MkY
 
 ## Admin Account
-    ```
+    
     email = admin@mail.com
     password = admin123
-    ```
+    
